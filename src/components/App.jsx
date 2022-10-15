@@ -36,7 +36,7 @@ export const App = () => {
         >
           {' '}
           <FriendList friends={friends} />
-          <StatCard title="Upload stats" stats={data} />
+          <StatCard title="Statistics`" stats={data} />
         </div>
       </div>
       <table>
